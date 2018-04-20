@@ -1,0 +1,458 @@
+YEAR,TOURNAMENT,WINNER,RUNNER-UP
+2018,Australian Open,Caroline Wozniacki,Simona Halep
+2017,U.S. Open,Sloane Stephens,Madison Keys
+2017,Wimbledon,Garbine Muguruza,Venus Williams
+2017,French Open,Jelena Ostapenko,Simona Halep
+2017,Australian Open,Serena Williams,Venus Williams
+2016,U.S. Open,Angelique Kerber,Karolina Pliskova
+2016,Wimbledon,Serena Williams,Angelique Kerber
+2016,French Open,Garbine Muguruza,Serena Williams
+2016,Australian Open,Angelique Kerber,Serena Williams
+2015,U.S. Open,Flavia Pennetta,Roberta Vinci
+2015,Wimbledon,Serena Williams,Garbine Muguruza
+2015,French Open,Serena Williams,Lucie Safarova
+2015,Australian Open,Serena Williams,Maria Sharapova
+2014,U.S. Open,Serena Williams,Caroline Wozniacki
+2014,Wimbledon,Petra Kvitova,Eugenie Bouchard
+2014,French Open,Maria Sharapova,Simona Halep
+2014,Australian Open,Li Na,Dominika Cibulkova
+2013,U.S. Open,Serena Williams,Victoria Azarenka
+2013,Wimbledon,Marion Bartoli,Sabine Lisicki
+2013,French Open,Serena Williams,Maria Sharapova
+2013,Australian Open,Victoria Azarenka,Li Na
+2012,U.S. Open,Serena Williams,Victoria Azarenka
+2012,Wimbledon,Serena Williams,Agnieszka Radwanska
+2012,French Open,Maria Sharapova,Sara Errani
+2012,Australian Open,Victoria Azarenka,Maria Sharapova
+2011,U.S. Open,Samantha Stosur,Serena Williams
+2011,Wimbledon,Petra Kvitova,Maria Sharapova
+2011,French Open,Li Na,Francesca Schiavone
+2011,Australian Open,Kim Clijsters,Li Na
+2010,U.S. Open,Kim Clijsters,Vera Zvonareva
+2010,Wimbledon,Serena Williams,Vera Zvonareva
+2010,French Open,Francesca Schiavone,Samantha Stosur
+2010,Australian Open,Serena Williams,Justine Henin
+2009,U.S. Open,Kim Clijsters,Caroline Wozniacki
+2009,Wimbledon,Serena Williams,Venus Williams
+2009,French Open,Svetlana Kuznetsova,Dinara Safina
+2009,Australian Open,Serena Williams,Dinara Safina
+2008,U.S. Open,Serena Williams,Jelena Jankovic
+2008,Wimbledon,Venus Williams,Serena Williams
+2008,French Open,Ana Ivanovic,Dinara Safina
+2008,Australian Open,Maria Sharapova,Ana Ivanovic
+2007,U.S. Open,Justine Henin,Svetlana Kuznetsova
+2007,Wimbledon,Venus Williams,Marion Bartoli
+2007,French Open,Justine Henin,Ana Ivanovic
+2007,Australian Open,Serena Williams,Maria Sharapova
+2006,U.S. Open,Maria Sharapova,Justine Henin-Hardenne
+2006,Wimbledon,Amelie Mauresmo,Justine Henin-Hardenne
+2006,French Open,Justine Henin-Hardenne,Svetlana Kuznetsova
+2006,Australian Open,Amelie Mauresmo,Justine Henin-Hardenne
+2005,U.S. Open,Kim Clijsters,Mary Pierce
+2005,Wimbledon,Venus Williams,Lindsay Davenport
+2005,French Open,Justine Henin-Hardenne,Mary Pierce
+2005,Australian Open,Serena Williams,Lindsay Davenport
+2004,U.S. Open,Svetlana Kuznetsova,Elena Dementieva
+2004,Wimbledon,Maria Sharapova,Serena Williams
+2004,French Open,Anastasia Myskina,Elena Dementieva
+2004,Australian Open,Justine Henin-Hardenne,Kim Clijsters
+2003,U.S. Open,Justine Henin-Hardenne,Kim Clijsters
+2003,Wimbledon,Serena Williams,Venus Williams
+2003,French Open,Justine Henin-Hardenne,Kim Clijsters
+2003,Australian Open,Serena Williams,Venus Williams
+2002,U.S. Open,Serena Williams,Venus Williams
+2002,Wimbledon,Serena Williams,Venus Williams
+2002,French Open,Serena Williams,Venus Williams
+2002,Australian Open,Jennifer Capriati,Martina Hingis
+2001,U.S. Open,Venus Williams,Serena Williams
+2001,Wimbledon,Venus Williams,Justine Henin
+2001,French Open,Jennifer Capriati,Kim Clijsters
+2001,Australian Open,Jennifer Capriati,Martina Hingis
+2000,U.S. Open,Venus Williams,Lindsay Davenport
+2000,Wimbledon,Venus Williams,Lindsay Davenport
+2000,French Open,Mary Pierce,Conchita Martinez
+2000,Australian Open,Lindsay Davenport,Martina Hingis
+1999,U.S. Open,Serena Williams,Martina Hingis
+1999,Wimbledon,Lindsay Davenport,Steffi Graf
+1999,French Open,Steffi Graf,Martina Hingis
+1999,Australian Open,Martina Hingis,Amelie Mauresmo
+1998,U.S. Open,Lindsay Davenport,Martina Hingis
+1998,Wimbledon,Jana Novotna,Nathalie Tauziat
+1998,French Open,Aranxta Sanchez-Vicario,Monica Seles
+1998,Australian Open,Martina Hingis,Conchita Martinez
+1997,U.S. Open,Martina Hingis,Venus Williams
+1997,Wimbledon,Martina Hingis,Jana Novotna
+1997,French Open,Iva Majoli,Martina Hingis
+1997,Australian Open,Martina Hingis,Mary Pierce
+1996,U.S. Open,Steffi Graf,Monica Seles
+1996,Wimbledon,Steffi Graf,Arantxa Sanchez-Vicario
+1996,French Open,Steffi Graf,Arantxa Sanchez-Vicario
+1996,Australian Open,Monica Seles,Anke Huber
+1995,U.S. Open,Steffi Graf,Monica Seles
+1995,Wimbledon,Steffi Graf,Arantxa Sanchez-Vicario
+1995,French Open,Steffi Graf,Arantxa Sanchez-Vicario
+1995,Australian Open,Mary Pierce,Arantxa Sanchez-Vicario
+1994,U.S. Open,Aranxta Sanchez-Vicario,Steffi Graf
+1994,Wimbledon,Conchita Martinez,Martina Navratilova
+1994,French Open,Aranxta Sanchez-Vicario,Mary Pierce
+1994,Australian Open,Steffi Graf,Arantxa Sanchez-Vicario
+1993,U.S. Open,Steffi Graf,Helena Sukova
+1993,Wimbledon,Steffi Graf,Jana Novotna
+1993,French Open,Steffi Graf,Mary Jo Fernandez
+1993,Australian Open,Monica Seles,Steffi Graf
+1992,U.S. Open,Monica Seles,Arantxa Sanchez-Vicario
+1992,Wimbledon,Steffi Graf,Monica Seles
+1992,French Open,Monica Seles,Steffi Graf
+1992,Australian Open,Monica Seles,Mary Joe Fernandez
+1991,U.S. Open,Monica Seles,Martina Navratilova
+1991,Wimbledon,Steffi Graf,Gabriela Sabatini
+1991,French Open,Monica Seles,Arantxa Sanchez-Vicario
+1991,Australian Open,Monica Seles,Jana Novotna
+1990,U.S. Open,Gabriela Sabatini,Steffi Graf
+1990,Wimbledon,Martina Navratilova,Zena Garrison
+1990,French Open,Monica Seles,Steffi Graf
+1990,Australian Open,Steffi Graf,Mary Joe Fernandez
+1989,U.S. Open,Steffi Graf,Martina Navratilova
+1989,Wimbledon,Steffi Graf,Martina Navratilova
+1989,French Open,Aranxta Sanchez-Vicario,Steffi Graf
+1989,Australian Open,Steffi Graf,Helena Sukova
+1988,U.S. Open,Steffi Graf,Gabriela Sabatini
+1988,Wimbledon,Steffi Graf,Martina Navratilova
+1988,French Open,Steffi Graf,Natasha Zvereva
+1988,Australian Open,Steffi Graf,Chris Evert
+1987,U.S. Open,Martina Navratilova,Steffi Graf
+1987,Wimbledon,Martina Navratilova,Steffi Graf
+1987,French Open,Steffi Graf,Martina Navratilova
+1987,Australian Open,Hana Mandlikova,Martina Navratilova
+1986,U.S. Open,Martina Navratilova,Helena Sukova
+1986,Wimbledon,Martina Navratilova,Hana Mandlikova
+1986,French Open,Chris Evert-Lloyd,Martina Navratilova
+1985,Australian Open,Martina Navratilova,Chris Evert
+1985,U.S. Open,Hana Mandlikova,Martina Navratilova
+1985,Wimbledon,Martina Navratilova,Chris Evert-Lloyd
+1985,French Open,Chris Evert-Lloyd,Martina Navratilova
+1984,Australian Open,Chris Evert-Lloyd,Helena Sukova
+1984,U.S. Open,Martina Navratilova,Chris Evert-Lloyd
+1984,Wimbledon,Martina Navratilova,Chris Evert-Lloyd
+1984,French Open,Martina Navratilova,Chris Evert-Lloyd
+1983,Australian Open,Martina Navratilova,Kathy Jordan
+1983,U.S. Open,Martina Navratilova,Chris Evert-Lloyd
+1983,Wimbledon,Martina Navratilova,Andrea Jaeger
+1983,French Open,Chris Evert-Lloyd,Mima Jausovec
+1982,Australian Open,Chris Evert-Lloyd,Martina Navratilova
+1982,U.S. Open,Chris Evert-Lloyd,Hana Mandlikova
+1982,Wimbledon,Martina Navratilova,Chris Evert-Lloyd
+1982,French Open,Martina Navratilova,Andrea Jaeger
+1981,Australian Open,Martina Navratilova,Chris Evert
+1981,U.S. Open,Tracy Austin,Martina Navratilova
+1981,Wimbledon,Chris Evert-Lloyd,Hana Mandlikova
+1981,French Open,Hana Mandlikova,Sylvia Hanika
+1980,Australian Open,Hana Mandlikova,Wendy Turnbull
+1980,U.S. Open,Chris Evert-Lloyd,Hana Mandlikova
+1980,Wimbledon,R.A. Cawley,Chris Evert-Lloyd
+1980,French Open,Chris Evert-Lloyd,Sylvia Hanika
+1979,Australian Open,Barbara Jordan,Sharon Walsh
+1979,U.S. Open,Tracy Austin,Chris Evert-Lloyd
+1979,Wimbledon,Martina Navratilova,Chris Evert-Lloyd
+1979,French Open,Chris Evert-Lloyd,Wendy Turnbull
+1978,Australian Open,Chris O'Neil,Betsy Nagelsen
+1978,U.S. Open,Chris Evert,Pam Shriver
+1978,Wimbledon,Martina Navratilova,Chris Evert
+1978,French Open,Virginia Ruzici,Mima Jausovec
+1977,Australian Open (Dec),Evonne Goolagong-Cawley,Helen Gourlay
+1977,U.S. Open,Chris Evert,Wendy Turnbull
+1977,Wimbledon,Virginia Wade,Betty Stove
+1977,French Open,Mima Jausovec,Florenta Mihai
+1977,Australian Open (Jan),Kerry Reid,Dianne Fromholtz
+1976,U.S. Open,Chris Evert,Evonne Goolagong-Cawley
+1976,Wimbledon,Chris Evert,Evonne Goolagong-Cawley
+1976,French Open,Sue Barker,Renata Tomanova
+1976,Australian Open,Evonne Goolagong-Cawley,Renata Tomanova
+1975,U.S. Open,Chris Evert,Evonne Goolagong-Cawley
+1975,Wimbledon,Billie Jean King,Evonne Goolagong-Cawley
+1975,French Open,Chris Evert,Martina Navratilova
+1975,Australian Open,Evonne Goolagong,Martina Navratilova
+1974,U.S. Open,Billie Jean King,Evonne Goolagong
+1974,Wimbledon,Chris Evert,Olga Morozova
+1974,French Open,Chris Evert,Olga Morozova
+1974,Australian Open,Evonne Goolagong,Chris Evert
+1973,U.S. Open,Margaret Smith-Court,Evonne Goolagong
+1973,Wimbledon,Billie Jean King,Chris Evert
+1973,French Open,Margaret Smith-Court,Chris Evert
+1973,Australian Open,Margaret Smith-Court,Evonne Goolagong
+1972,U.S. Open,Billie Jean King,Kerry Melville
+1972,Wimbledon,Billie Jean King,Evonne Goolagong
+1972,French Open,Billie Jean King,Evonne Goolagong
+1972,Australian Open,Virginia Wade,Evonne Goolagong
+1971,U.S. Open,Billie Jean King,Rosemary Casals
+1971,Wimbledon,Evonne Goolagong,Margaret Court
+1971,French Open,Evonne Goolagong,Helen Gourlay
+1971,Australian Open,Margaret Smith-Court,Evonne Goolagong
+1970,U.S. Open,Margaret Smith-Court,Rosemary Casals
+1970,Wimbledon,Margaret Smith-Court,Billie Jean King
+1970,French Open,Margaret Smith-Court,Helga Niessen
+1970,Australian Open,Margaret Smith-Court,Kerry Melville
+1969,U.S. Open,Margaret Smith-Court,Nancy Richey
+1969,Wimbledon,Ann Haydon Jones,Billie Jean King
+1969,French Open,Margaret Smith-Court,Ann Jones
+1969,Australian Open,Margaret Smith-Court,Billie Jean King
+1968,U.S. Open,Virginia Wade,Billie Jean King
+1968,Wimbledon,Billie Jean King,Judy Tegart
+1968,French Open,Nancy Richey,Ann Jones
+1968,Australian Open,Billie Jean King,Margaret Smith-Court
+1967,U.S. Open,Billie Jean King,Ann Haydon Jones
+1967,Wimbledon,Billie Jean King,Ann Jones
+1967,French Open,Francoise Durr,Lesley Turner
+1967,Australian Open,Nancy Richey,Lesley Turner
+1966,U.S. Open,Maria Bueno,Nancy Richey
+1966,Wimbledon,Billie Jean King,Maria Bueno
+1966,French Open,Ann Haydon Jones,Nancy Richey
+1966,Australian Open,Margaret Smith,Nancy Richey
+1965,U.S. Open,Margaret Smith,Billie Jean Moffitt
+1965,Wimbledon,Margaret Smith,Maria Bueno
+1965,French Open,Lesley Turner,Margaret Smith
+1965,Australian Open,Margaret Smith,Maria Bueno
+1964,U.S. Open,Maria Bueno,Carole Caldwell Graebner
+1964,Wimbledon,Maria Bueno,Margaret Smith
+1964,French Open,Margaret Smith,Maria Bueno
+1964,Australian Open,Margaret Smith,Lesley Turner
+1963,U.S. Open,Maria Bueno,Margaret Smith
+1963,Wimbledon,Margaret Smith,Billie Jean Moffitt
+1963,French Open,Lesley Turner,Ann Jones
+1963,Australian Open,Margaret Smith,Jan Lehane
+1962,U.S. Open,Margaret Smith,Darlene R. Hard
+1962,Wimbledon,Karen Susman,Vera Sukova
+1962,French Open,Margaret Smith,Lesley Turner
+1962,Australian Open,Margaret Smith,Jan Lehane
+1961,U.S. Open,Darlene R. Hard,Ann Haydon
+1961,Wimbledon,Angela Mortimer,Christine Truman
+1961,French Open,Ann Haydon,Yola Ramirez
+1961,Australian Open,Margaret Smith,Jan Lehane
+1960,U.S. Open,Darlene R. Hard,Maria Bueno
+1960,Wimbledon,Maria Bueno,Sandra Reynolds
+1960,French Open,Darlene R. Hard,Yola Ramirez
+1960,Australian Open,Margaret Smith,Jan Lehane
+1959,U.S. Open,Maria Bueno,Christine Truman
+1959,Wimbledon,Maria Bueno,Darlene Hard
+1959,French Open,Christine Truman,Zsuzsi Kormoczy
+1959,Australian Open,Mary Carter Reitano,Renee Schuurman
+1958,U.S. Open,Althea Gibson,Darlene R. Hard
+1958,Wimbledon,Althea Gibson,Angela Mortimer
+1958,French Open,Zsuzsi Kormoczy,Shirley Bloomer
+1958,Australian Open,Angela Mortimer,Lorraine Coghlan
+1957,U.S. Open,Althea Gibson,A. Louise Brough
+1957,Wimbledon,Althea Gibson,Darlene Hard
+1957,French Open,Shirley Bloomer,Dorothy Head Knode
+1957,Australian Open,Shirley Fry,Althea Gibson
+1956,U.S. Open,Shirley Fry,Althea Gibson
+1956,Wimbledon,Shirley Fry,Angela Buxton
+1956,French Open,Althea Gibson,Angela Mortimer
+1956,Australian Open,Mary Carter,Thelma Long
+1955,U.S. Open,Doris Hart,Patricia Ward
+1955,Wimbledon,Louise Brough,Beverly Fleitz
+1955,French Open,Angela Mortimer,Dorothy Head Knode
+1955,Australian Open,Beryl Penrose,Thelma Long
+1954,U.S. Open,Doris Hart,A. Louise Brough
+1954,Wimbledon,Maureen Connolly,Louise Brough
+1954,French Open,Maureen Connolly,Ginette Bucaille
+1954,Australian Open,Thelma Long,Jennifer Staley
+1953,U.S. Open,Maureen Connolly,Doris Hart
+1953,Wimbledon,Maureen Connolly,Doris Hart
+1953,French Open,Maureen Connolly,Doris Hart
+1953,Australian Open,Maureen Connolly,Julia Sampson
+1952,U.S. Open,Maureen Connolly,Doris Hart
+1952,Wimbledon,Maureen Connolly,Louise Brough
+1952,French Open,Doris Hart,Shirley Fry
+1952,Australian Open,Thelma Long,H. Angwin
+1951,U.S. Open,Maureen Connolly,Shirley Fry
+1951,Wimbledon,Doris Hart,Shirley Fry
+1951,French Open,Shirley Fry,Doris Hart
+1951,Australian Open,Nancye Wynne Bolton,Thelma Long-Coyne
+1950,U.S. Open,Margaret Osborne duPont,Doris Hart
+1950,Wimbledon,Louise Brough,Margaret Osborne duPont
+1950,French Open,Doris Hart,Patricia Todd
+1950,Australian Open,A. Louise Brough,Doris Hart
+1949,U.S. Open,Margaret Osborne duPont,Doris Hart
+1949,Wimbledon,Louise Brough,Margaret Osborne duPont
+1949,French Open,Margaret Osborne duPont,Nelly Adamson
+1949,Australian Open,Doris Hart,Nancye Bolton
+1948,U.S. Open,Margaret Osborne duPont,A. Louise Brough
+1948,Wimbledon,Louise Brough,Doris Hart
+1948,French Open,Nelly Landry,Shirley Fry
+1948,Australian Open,Nancye Wynne Bolton,Marie Toomey
+1947,U.S. Open,A. Louise Brough,Margaret Osborne
+1947,Wimbledon,Margaret Osborne duPont,Doris Hart
+1947,French Open,Patricia Todd,Doris Hart
+1947,Australian Open,Nancye Wynne Bolton,Nell Hopman
+1946,U.S. Open,Pauline Betz,Patricia Canning
+1946,Wimbledon,Pauline Betz,Louise Brough
+1946,French Open,Margaret Osborne duPont,Pauline Betz
+1946,Australian Open,Nancye Wynne Bolton,Joyce Fitch
+1945,U.S. Open,Sarah Palfrey Cooke,Pauline Betz
+1944,U.S. Open,Pauline Betz,Margaret Osborne
+1943,U.S. Open,Pauline Betz,A. Louise Brough
+1942,U.S. Open,Pauline Betz,A. Louise Brough
+1941,U.S. Open,Sarah Palfrey Cooke,Pauline Betz
+1940,U.S. Open,Alice Marble,Helen Jacobs
+1940,Australian Open,Nancye Wynne Bolton,Thelma Coyne
+1939,U.S. Open,Alice Marble,Helen Jacobs
+1939,Wimbledon,Alice Marble,Kay Stammers
+1939,French Open,Simone Mathieu,Jadwiga Jedrzejowska
+1939,Australian Open,Emily Westacott,Nell Hopman
+1938,U.S. Open,Alice Marble,Nancye Wynne
+1938,Wimbledon,Helen Wills Moody,Helen Jacobs
+1938,French Open,Simone Mathieu,Nelly Adamson
+1938,Australian Open,Dorothy Bundy,Dorothy Stevenson
+1937,U.S. Open,Anita Lizana,Jadwiga Jedrzejowska
+1937,Wimbledon,Dorothy Round,Jadwiga Jedrzejowska
+1937,French Open,Hilde Sperling,Simone Mathieu
+1937,Australian Open,Nancye Wynne,Emily Westacott
+1936,U.S. Open,Alice Marble,Helen Jacobs
+1936,Wimbledon,Helen Jacobs,Hilde Kranwinkel Sperling
+1936,French Open,Hilde Sperling,Simone Mathieu
+1936,Australian Open,Joan Hartigan,Nancye Wynne
+1935,U.S. Open,Helen Jacobs,Sarah H. Palfrey
+1935,Wimbledon,Helen Wills Moody,Helen Jacobs
+1935,French Open,Hilde Sperling,Simone Mathieu
+1935,Australian Open,Dorothy Round,Nancy Lyle
+1934,U.S. Open,Helen Jacobs,Sarah H. Palfrey
+1934,Wimbledon,Dorothy Round,Helen Jacobs
+1934,French Open,Margaret Scriven,Helen Jacobs
+1934,Australian Open,Joan Hartigan,Margaret Molesworth
+1933,U.S. Open,Helen Jacobs,Helen Wills Moody
+1933,Wimbledon,Helen Wills Moody,Dorothy Round
+1933,French Open,Margaret Scriven,Simone Mathieu
+1933,Australian Open,Joan Hartigan,Coral Buttsworth
+1932,U.S. Open,Helen Jacobs,Carolin A. Babcock
+1932,Wimbledon,Helen Wills Moody,Helen Jacobs
+1932,French Open,Helen Wills Moody,Simone Mathieu
+1932,Australian Open,Coral Buttsworth,Katherine Le Messurier
+1931,U.S. Open,Helen Wills Moody,Eileen Bennett Whitingstall
+1931,Wimbledon,Cilly Aussem,Hilde Kranwinkel
+1931,French Open,Cilly Aussem,Betty Nuthall
+1931,Australian Open,Coral Buttsworth,Margorie Crawford
+1930,U.S. Open,Betty Nuthall,Anna McCune Harper
+1930,Wimbledon,Helen Wills Moody,Elizabeth Ryan
+1930,French Open,Helen Wills Moody,Helen Jacobs
+1930,Australian Open,Daphne Akhurst,Sylvia Harper
+1929,U.S. Open,Helen Wills,Phoebe Holcroft Watson
+1929,Wimbledon,Helen Wills,Helen Jacobs
+1929,French Open,Helen Wills,Simone Mathieu
+1929,Australian Open,Daphne Akhurst,Louise Bickerton
+1928,U.S. Open,Helen Wills,Helen J. Jacobs
+1928,Wimbledon,Helen Wills,Lili de Alvarez
+1928,French Open,Helen Wills,E. Bennett
+1928,Australian Open,Daphne Akhurst,Esna Boyd
+1927,U.S. Open,Helen Wills,Betty Nuthall
+1927,Wimbledon,Helen Wills,Lili de Alvarez
+1927,French Open,Kornelia Bouman,Irene Peacock
+1927,Australian Open,Esna Boyd,Sylvia Harper
+1926,U.S. Open,Molla B. Mallory,Elizabeth Ryan
+1926,Wimbledon,Kathleen Godfree,Lili de Alvarez
+1926,French Open,Suzanne Lenglen,Mary Browne
+1926,Australian Open,Daphne Akhurst,Esna Boyd
+1925,U.S. Open,Helen Wills,Kathleen McKane
+1925,Wimbledon,Suzanne Lenglen,Joan Fry
+1925,French Open,Suzanne Lenglen,Kathleen McKane
+1925,Australian Open,Daphne Akhurst,Esna Boyd
+1924,U.S. Open,Helen Wills,Molla B. Mallory
+1924,Wimbledon,Kathleen McKane,Helen Wills
+1924,French Open,Diddie Vlasto,Jeanne Vaussard
+1924,Australian Open,Sylvia Lance,Esna Boyd
+1923,U.S. Open,Helen Wills,Molla B. Mallory
+1923,Wimbledon,Suzanne Lenglen,Kathleen McKane
+1923,French Open,Suzanne Lenglen,Germaine Golding
+1923,Australian Open,Margaret Molesworth,Esna Boyd
+1922,U.S. Open,Molla B. Mallory,Helen Wills
+1922,Wimbledon,Suzanne Lenglen,Molla Mallory
+1922,French Open,Suzanne Lenglen,Germaine Golding
+1922,Australian Open,Margaret Molesworth,Esna Boyd
+1921,U.S. Open,Molla B. Mallory,Mary K. Browne
+1921,Wimbledon,Suzanne Lenglen,Elizabeth Ryan
+1921,French Open,Suzanne Lenglen,Germaine Golding
+1920,U.S. Open,Molla B. Mallory,Marion Zinderstein
+1920,Wimbledon,Suzanne Lenglen,Dorothea Douglass Chambers
+1920,French Open,Suzanne Lenglen,Marguerite Broquedis
+1919,U.S. Open,Hazel Hotchkiss Wightman,Marion Zinderstein
+1919,Wimbledon,Suzanne Lenglen,Dorothea Douglass Chambers
+1918,U.S. Open,Molla Bjurstedt,Eleanor E. Goss
+1917,U.S. Open,Molla Bjurstedt,Marion Vanderhoef
+1916,U.S. Open,Molla Bjurstedt,Louise Hammond Raymond
+1915,U.S. Open,Molla Bjurstedt,Hazel Hotchkiss Wightman
+1914,U.S. Open,Mary Browne,Marie Wagner
+1914,Wimbledon,Lambert Chambers,Ethel Larcombe
+1914,French Open,Marguerite Broquedis,Suzanne Lenglen
+1913,U.S. Open,Mary Browne,Dorothy Green
+1913,Wimbledon,Lambert Chambers,R. McNair
+1913,French Open,Marguerite Broquedis,Jeanne Matthey
+1912,U.S. Open,Mary Browne,Eleonora Sears
+1912,Wimbledon,Ethel Larcombe,Charlotte Cooper Sterry
+1912,French Open,Jeanne Matthey,Marie Daney
+1911,U.S. Open,Hazel Hotchkiss,Florence Sutton
+1911,Wimbledon,Lambert Chambers,Dora Boothby
+1911,French Open,Jeanne Matthey,Marguerite Broquedis
+1910,U.S. Open,Hazel Hotchkiss,Louise Hammond
+1910,Wimbledon,Lambert Chambers,Dora Boothby
+1910,French Open,Jeanne Matthey,Marguerite Broquedis
+1909,U.S. Open,Hazel Hotchkiss,Maud Barger-Wallach
+1909,Wimbledon,Dora Boothby,A. Morton
+1909,French Open,Jeanne Matthey,Gallay
+1908,U.S. Open,Maud Barger Wallach,Evelyn Sears
+1908,Wimbledon,Charlotte Cooper Sterry,A. Morton
+1908,French Open,Kate Gillou Fenwick,A. Pean
+1907,U.S. Open,Evelyn Sears,Carrie Neely
+1907,Wimbledon,May Sutton,Dorothea Douglass Chambers
+1907,French Open,Comtesse de Kermel,D. Elva
+1906,U.S. Open,Helen Homans,Maud Barger-Wallach
+1906,Wimbledon,Dorothea Douglass,May Sutton
+1906,French Open,Kate Gillou Fenwick,MacVeagh
+1905,U.S. Open,Elisabeth Moore,Helen Homans
+1905,Wimbledon,May Sutton,Dorothea Douglass
+1905,French Open,Kate Gillou,Y. De Pfoeffel
+1904,U.S. Open,May Sutton,Elisabeth Moore
+1904,Wimbledon,Dorothea Douglass,Charlotte Cooper Sterry
+1904,French Open,Kate Gillou,Adine Masson
+1903,U.S. Open,Elisabeth Moore,Marion Jones
+1903,Wimbledon,Dorothea Douglass,E. Thomson
+1903,French Open,F. Masson,Katie Gillou
+1902,U.S. Open,Marion Jones,Elisabeth Moore
+1902,Wimbledon,Muriel Robb,Charlotte Cooper Sterry
+1902,French Open,F. Masson,P. Girod
+1901,U.S. Open,Elisabeth Moore,Myrtle McAteer
+1901,Wimbledon,Charlotte Cooper Sterry,Blanche Bingley Hillyard
+1901,French Open,P. Girod,Leroux
+1900,U.S. Open,Myrtle McAteer,Edith Parker
+1900,Wimbledon,Blanche Bingley Hillyard,Charlotte Cooper
+1900,French Open,Y. Prevost,xxx
+1899,U.S. Open,Marion Jones,Maud Banks
+1899,Wimbledon,Blanche Bingley Hillyard,Charlotte Cooper
+1899,French Open,Francoise Masson,xxx
+1898,U.S. Open,Juliette Atkinson,Marion Jones
+1898,Wimbledon,Charlotte Cooper,L. Martin
+1898,French Open,Francoise Masson,xxx
+1897,U.S. Open,Juliette Atkinson,Elisabeth Moore
+1897,Wimbledon,Blanche Bingley Hillyard,Charlotte Cooper
+1897,French Open,Francoise Masson,P. Girod
+1896,U.S. Open,Elisabeth Moore,Juliette Atkinson
+1896,Wimbledon,Charlotte Cooper,W. H. Pickering
+1895,U.S. Open,Juliette Atkinson,Helen Hellwig
+1895,Wimbledon,Charlotte Cooper,H. Jackson
+1894,U.S. Open,Helen Hellwig,Aline Terry
+1894,Wimbledon,Blanche Bingley Hillyard,E. Austin
+1893,U.S. Open,Aline Terry,Augusta Schultz
+1893,Wimbledon,Lottie Dod,Blanche Bingley Hillyard
+1892,U.S. Open,Mabel Cahill,Elisabeth Moore
+1892,Wimbledon,Lottie Dod,Blanche Bingley Hillyard
+1891,U.S. Open,Mabel Cahill,Ellen C Roosevelt
+1891,Wimbledon,Lottie Dod,Blanche Bingley Hillyard
+1890,U.S. Open,Ellen C. Roosevelt,Bertha L. Townsend
+1890,Wimbledon,Lena Rice,M. Jacks
+1889,U.S. Open,Bertha L. Townsend,Lida D. Voorhes
+1889,Wimbledon,Blanche Bingley Hillyard,Lena Rice
+1888,U.S. Open,Bertha L. Townsend,Ellen Hansell
+1888,Wimbledon,Lottie Dod,Blanche Bingley Hillyard
+1887,U.S. Open,Ellen Hansell,Laura Knight
+1887,Wimbledon,Lottie Dod,Blanche Bingley
+1886,Wimbledon,Blanche Bingley,Maud Watson
+1885,Wimbledon,Maud Watson,Blanche Bingley
+1884,Wimbledon,Maud Watson,Lillian Watson
